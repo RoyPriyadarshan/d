@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Note-: Cannot understand why it is not storing it in the local storage.
+# Please visit the code of alternative which I have commented out
+
 ## Available Scripts
 
 In the project directory, you can run:
