@@ -1,0 +1,12 @@
+.FormDesign{
+    box-shadow: 2px -1px 76px -27px rgba(65, 72, 139, 0.75);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.ButtonGroup{
+    padding: 20px;
+    margin: auto;
+}   

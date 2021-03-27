@@ -1,0 +1,9 @@
+.Invalid{
+    background-color: salmon;
+}
+
+.ValidationMessage{
+    color: red;
+    font-size: x-small;
+    margin-top: -10px;
+}
